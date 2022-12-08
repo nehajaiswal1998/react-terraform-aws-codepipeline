@@ -1,7 +1,9 @@
-variable "github_token" {}
+variable "github_token" {
+   default = "xb4sj2g4fpfl3zynvzrlvzbb45sotubxfafmiib5t5hdpxdirima"
+}
 
 variable "github_username" {
-  default = "MatthewCYLau"
+  default = "nehajaiswal1998"
 }
 
 variable "github_project_name" {
