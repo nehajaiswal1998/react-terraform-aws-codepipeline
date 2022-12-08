@@ -11,5 +11,5 @@ variable "github_project_name" {
 }
 
 variable "bucket_name" {
-  default = "matlau-aws-react-codepipeline-bucket"
+  default = "react-aws-codepipeline-s3-bucket-123"
 }
